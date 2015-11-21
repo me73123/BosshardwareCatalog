@@ -1,0 +1,163 @@
+/* 
+  Localizable.strings
+  Youngcatalog
+
+  Created by honlun on 2014/8/2.
+  Copyright (c) 2014年 honlun. All rights reserved.
+*/
+
+/* */
+"version" = "version 1.0.0";
+
+/* */
+"loading" = "資料載入中…請稍侯…";
+
+/* */
+"upload" = "資料上傳中…請稍侯…";
+
+/* */
+"configure" = "確定";
+
+/* */
+"cancel" = "取消";
+
+/* */
+"prompt" = "提示";
+
+/* */
+"delete" = "刪除";
+
+"update" = "更新";
+
+/* */
+"download" = "下載";
+
+/* */
+"review" = "檢視";
+
+/* */
+"updateAlbum" = "更新目錄";
+
+/* */
+"deleteAlbum" = "刪除目錄";
+
+/* */
+"albumarea" = "目錄專區";
+
+/* */
+"movie" = "影片庫";
+
+/* */
+"vip" = "VIP專區";
+
+/* */
+"closeApp" = "退出";
+
+/* */
+"alert_exit" = "確定要退出應用程式?";
+
+/* */
+"alert_del" = "確定要刪除勾選的目錄?";
+
+/* */
+"toast_download_album_first" = "請先下載型錄";
+
+/* */
+"toast_download_album_fail" = "網路未連線!型錄下載失敗";
+
+/* */
+"toast_update_album_fail" = "網路未連線!型錄更新失敗";
+
+/* */
+"toast_photozoom" = "在圖片上連點二下可放大/縮小, 縮小回原尺寸左右滑動才能換圖";
+
+/* */
+"toast_update_movie_fail" = "影片更新失敗!";
+
+/* */
+"toast_open_url_fail" = "無法開啟連結!";
+
+/* */
+"delAlbum" = "刪除目錄";
+
+/* */
+"isdelete" = "暫時隱藏";
+
+/* */
+"id" = "帳號";
+
+/* */
+"pwd" = "密碼";
+
+/* */
+"login" = "登入";
+
+/* */
+"logout" = "登出";
+
+/* */
+"toast_input_id" = "請輸入帳號";
+
+/* */
+"toast_input_pwd" = "請輸入密碼";
+
+/* */
+"toast_login_fail" = "網路未連線!登入失敗";
+
+/* */
+"toast_pwd_error" = "密碼錯誤!";
+
+/* */
+"toast_id_error" = "帳號錯誤!";
+
+/* */
+"alert_vip_refresh" = "返回目錄後，請按更新以下載vip目錄";
+
+/* */
+"vipMsg" = "VIP 好康訊息";
+
+/* */
+"service" = "叫修專區";
+
+/* */
+"tel" = "市話或手機：";
+
+/* */
+"search" = "搜尋";
+
+/* */
+"toast_input_cname" = "請輸入客戶名稱!";
+
+/* */
+"toast_input_caddr" = "請輸入客戶地址!";
+
+/* */
+"toast_input_tel" = "請輸入市話或手機!";
+
+/* */
+"toast_input_cstatus1" = "請輸入叫修事由!";
+
+/* */
+"toast_customer_error" = "找不到資料,請重新搜尋或進行註冊!";
+
+/* */
+"toast_callok" = "叫修成功!客服人員將會儘速安排時間!";
+
+/* */
+"cname" = "客戶名稱：";
+
+/* */
+"caddr" = "客戶地址：";
+
+/* */
+"cstatus" = "叫修事由：";
+
+/* */
+"send" = "送出";
+
+/* */
+"newc" = "新客戶註冊";
+
+"toast_getNews_fail" = "取得最新消息失敗";
+
+"loginWait" = "登入中…請稍候…";

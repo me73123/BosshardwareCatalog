@@ -1,0 +1,12 @@
+/* Localized versions of Info.plist keys */
+
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: Localizable.strings conversion
+ * Release: Working copy
+ * Locale: xx_XX, Unknown
+ * Exported at: Sat, 19 Jul 2014 03:12:03 +0100
+ */
+
+/* */
+"CFBundleDisplayName" = "Boss 水龍頭";

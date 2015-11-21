@@ -1,0 +1,133 @@
+/* 
+  Localizable.strings
+  Youngcatalog
+
+  Created by honlun on 2014/8/2.
+  Copyright (c) 2014年 honlun. All rights reserved.
+*/
+
+/* */
+"version" = "version 1.0.0";
+
+/* */
+"loading" = "Loading…";
+
+/* */
+"configure" = "Configure";
+
+/* */
+"cancel" = "Cancel";
+
+/* */
+"prompt" = "Prompt";
+
+/* */
+"delete" = "Delete";
+
+"update" = "Update";
+
+/* */
+"download" = "Download";
+
+/* */
+"review" = "Review";
+
+/* */
+"updateAlbum" = "Update";
+
+/* */
+"deleteAlbum" = "Delete";
+
+/* */
+"albumarea" = "Catalog";
+
+/* */
+"movie" = "Movie";
+
+/* */
+"vip" = "VIP";
+
+/* */
+"closeApp" = "Exit";
+
+/* */
+"alert_exit" = "Do you want to exit?";
+
+/* */
+"alert_del" = "Are you sure to delete the checked catalog?";
+
+/* */
+"toast_download_album_first" = "Please download catalog first.";
+
+/* */
+"toast_download_album_fail" = "Not connected to network!";
+
+/* */
+"toast_update_album_fail" = "Not connected to network!";
+
+/* */
+"toast_photozoom" = "Double click on the picture to zoom in/out, picture must to be the original size before sliding around!";
+
+/* */
+"toast_update_movie_fail" = "Movies loading fail!";
+
+/* */
+"toast_open_url_fail" = "Unable to open the url!";
+
+/* */
+"delAlbum" = "Delete Catalog";
+
+/* */
+"isdelete" = "Temporarily hide";
+
+/* */
+"id" = "ID";
+
+/* */
+"pwd" = "Passwd";
+
+/* */
+"login" = "Login";
+
+/* */
+"toast_input_id" = "Please input id.";
+
+/* */
+"toast_input_pwd" = "Please input password.";
+
+/* */
+"toast_login_fail" = "Not connected to network, Login fail.";
+
+/* */
+"toast_pwd_error" = "Password incorrect!";
+
+/* */
+"toast_id_error" = "No such ID!";
+
+/* */
+"alert_vip_refresh" = "Return and click update to download vip catalog.";
+
+/* */
+"logout" = "Logout";
+
+/* */
+"vipMsg" = "VIP Message";
+
+/* */
+"service" = "Called Zone";
+
+/* */
+"tel" = "TEL or Cellphone:";
+
+/* */
+"search" = "Search";
+
+/* */
+"toast_input_tel" = "Please input TEL or cellphone.";
+
+/* */
+"toast_customer_error" = "No such TEL or cellphone please fill below info!";
+
+"toast_getNews_fail" = "Get news fail.";
+
+"loginWait" = "Login…";

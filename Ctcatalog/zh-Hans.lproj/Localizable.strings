@@ -1,0 +1,164 @@
+/* 
+  Localizable.strings
+  Youngcatalog
+
+  Created by honlun on 2014/8/2.
+  Copyright (c) 2014年 honlun. All rights reserved.
+*/
+
+/* */
+"version" = "version 1.0.0";
+
+/* */
+"loading" = "数据加载中…请稍侯…";
+
+/* */
+"upload" = "资料上传中…请稍侯…";
+
+/* */
+"configure" = "确定";
+
+/* */
+"cancel" = "取消";
+
+/* */
+"prompt" = "提示";
+
+/* */
+"delete" = "删除";
+
+"update" = "更新";
+
+/* */
+"download" = "下载";
+
+/* */
+"review" = "检视";
+
+/* */
+"updateAlbum" = "更新目录";
+
+/* */
+"deleteAlbum" = "删除目录";
+
+/* */
+"albumarea" = "目录专区";
+
+/* */
+"movie" = "影片库";
+
+/* */
+"vip" = "VIP专区";
+
+/* */
+"closeApp" = "退出";
+
+/* */
+"alert_exit" = "确定要退出应用程序?";
+
+/* */
+"alert_del" = "确定要删除勾选的目录?";
+
+/* */
+"toast_download_album_first" = "请先下载型录";
+
+/* */
+"toast_download_album_fail" = "网络未联机!型录下载失败";
+
+/* */
+"toast_update_album_fail" = "网络未联机!型录更新失败";
+
+/* */
+"toast_photozoom" = "在图片上连点二下可放大/缩小, 缩小回原尺寸左右滑动才能换图";
+
+/* */
+"toast_update_movie_fail" = "影片更新失败!";
+
+/* */
+"toast_open_url_fail" = "无法开启连结!";
+
+/* */
+"delAlbum" = "删除目录";
+
+/* */
+"isdelete" = "暂时隐藏";
+
+/* */
+"id" = "账号";
+
+/* */
+"pwd" = "密码";
+
+/* */
+"login" = "登入";
+
+/* */
+"logout" = "注销";
+
+/* */
+"toast_input_id" = "请输入账号";
+
+/* */
+"toast_input_pwd" = "请输入密码";
+
+/* */
+"toast_login_fail" = "网络未联机!登入失败";
+
+/* */
+"toast_pwd_error" = "密码错误!";
+
+/* */
+"toast_id_error" = "账号错误!";
+
+/* */
+"alert_vip_refresh" = "返回目录后，请按更新以下载vip目录";
+
+/* */
+"vipMsg" = "VIP 好康讯息";
+
+/* */
+"service" = "叫修专区";
+
+/* */
+"tel" = "市话或手机：";
+
+/* */
+"search" = "搜寻";
+
+/* */
+"toast_input_cname" = "请输入客户名称!";
+
+/* */
+"toast_input_caddr" = "请输入客户地址!";
+
+/* */
+"toast_input_tel" = "请输入市话或手机!";
+
+/* */
+"toast_input_cstatus1" = "请输入叫修事由!";
+
+/* */
+"toast_customer_error" = "找不到数据,请重新搜寻或进行注册!";
+
+/* */
+"toast_callok" = "叫修成功!客服人员将会尽速安排时间!";
+
+/* */
+"cname" = "客户名称：";
+
+/* */
+"caddr" = "客户地址：";
+
+/* */
+"cstatus" = "叫修事由：";
+
+/* */
+"send" = "送出";
+
+/* */
+"newc" = "新客户注册";
+/* Localized versions of Info.plist keys */
+
+"toast_getNews_fail" = "取得最新消息失败";
+
+"loginWait" = "登入中…请稍候…";

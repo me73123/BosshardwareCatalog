@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5064" systemVersion="13E28" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Album" representedClassName="Album" syncable="YES">
+        <attribute name="albumDetailPath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="albumphoto" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="albumPhotoSavePath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="albumTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="albumuuid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="detailPhotoSavePath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isDelete" optional="YES" attributeType="Integer 16" syncable="YES"/>
+        <attribute name="isLoad" optional="YES" attributeType="Integer 16" syncable="YES"/>
+        <attribute name="isUse" optional="YES" attributeType="Integer 16" syncable="YES"/>
+        <attribute name="updateDate" optional="YES" attributeType="Date" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Album" positionX="-63" positionY="-18" width="128" height="193"/>
+    </elements>
+</model>

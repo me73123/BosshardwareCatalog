@@ -1,0 +1,5 @@
+storyboard:
+	Main : lanuch, main
+	Catalog : thumbail, deleteAlbum
+	OtherFunctional : movie, alert
+	Vip : setting, vipNews, repair
